@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: eauction-service
+  data:
+    mongodb:
+      uri: mongodb+srv://madan27:madan123@cluster0.6afz2.mongodb.net/eauction
